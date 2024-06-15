@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **BootStrap, Tailwind CSS, OpenAI**
 
-- 💬 Ask me about **CSS, C++, Python, generative, tailwind**
+- 💬 Ask me about **CSS, C++, Python, generativeAI, tailwind**
 
 - 📫 How to reach me **shubhamkumar44838@gmail.com**
 
