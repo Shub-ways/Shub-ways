@@ -124,12 +124,12 @@ A full-stack application for tracking daily expenses with category breakdowns, d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shub-ways&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shub-ways&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=FF4B4B&currStreakLabel=00C7B7" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Shub-ways&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=FF4B4B&currStreakLabel=00C7B7&sideLabels=00C7B7" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shub-ways&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shub-ways&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&layout=compact" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shub-ways&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" width="50%" />
 
 </div>
 
@@ -164,7 +164,7 @@ A full-stack application for tracking daily expenses with category breakdowns, d
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   "First, solve the problem. Then, write the code."      ║
-║                                          — John Johnson   ║
+║                                          — John Johnson  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
